@@ -97,8 +97,7 @@ tough-love/
 
 ## 📌 Future Additions
 
-<!-- ADD: Screenshots or demo GIFs here -->
-<!-- ADD: Link to demo video -->
+![Dashboard Overview](Tough_Love.png)
 
 ---
 
